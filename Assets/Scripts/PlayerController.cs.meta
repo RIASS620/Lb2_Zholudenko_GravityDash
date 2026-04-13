@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 29541279c6ecf0c4fb4fdb333b817fbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - finalScoreText: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - gravitySound: {fileID: 8300000, guid: c13b653979ea4a244a6033698c6f7c55, type: 3}
+  - deathSound: {fileID: 8300000, guid: d7cfa8f3d7fa1fc4380a054c809ded86, type: 3}
+  - deathSprite: {fileID: 5040000398334464449, guid: d8062727faf4c504998710e9b05c1328, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
